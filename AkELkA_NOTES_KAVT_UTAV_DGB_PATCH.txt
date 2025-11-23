@@ -1,0 +1,81 @@
+DGB_UTAV_patch-KAVT_UTAV_PAK_AkELkA
+
+
+Just drag and drop to override the UTAV or KAVT PAK files
+(KAVT NVP - Kazstra's Virtual Tav Non-Virtual Port, and KAVT - Kazstra's Virtual Tav, the VT one, since DGB is not VT there), then repack the mod.
+
+And Delete CLEA from your generated folder, it does not need to anything, only confusing people who doing assets for your mod
+--------------------------------------------------------------------
+This mod fixes multiple issues with Dragonborns in Unique Tav Custom Appearance (UTAV) and KAVT, remaking all Dragonborn parts.
+
+--------------------------------------------------------------------
+
+CHANGE LOG
+
+DATA (Generated folder files) changed, as well as the KAVT Generated folder. This patch works for BOTH:
+
+✧ Draconic Bloodline textures added in DATA files for male and female separately.
+Vanilla uses one shared texture for both body types. Since UTAV and KAVT are about uniqueness, I find that unacceptable, so I separated them.
+
+✧ Tail textures added separately in case people want to make their own variations.
+Since the meshes were already present in UTAV, having the textures included is only logical.
+
+✧ CLEA textures removed.
+They are unused for Dragonborn. Please stop using them, they are just rudiments.
+If you want to understand what textures actually do for Dragonborn, check the BG3 Wiki page I made a year ago:
+https://bg3.wiki/wiki/Modding:Face_and_body_textures#Dragonborn
+
+✧ Body textures now contain the same fixes as my Seam Mender mod for bodies
+(does not include head fixes).
+--------------------------------------------------------------------
+
+PAK file issue fixes present in both KAVT and UTAV:
+
+✧ All the same changes as in the Generated Data folder.
+
+✧ Body assets no longer use Vanilla UUIDs for textures, materials, or assets.
+Now they are correctly separated from NPCs, which is the whole point of Unique Tav.
+
+✧ Draconic Bloodline switch file added.
+
+✧ Draconic Bloodline for bodies now REALLY uses a unique texture instead of the Vanilla one.
+In original UTAV it wasn’t even present in the folder, not set up, and not separated.
+Now it is separated by body type as well.
+
+✧ Draconic Bloodline for heads now works in UTAV and KAVT.
+Before, heads did not switch their material to Draconic Bloodline stripes.
+
+✧ UTAV tails and private parts added as separate buttons in CC.
+
+✧ Body textures for the Vanilla variation match my Seam Mender fixes.
+
+✧ Cloth Collider for males changed to DRAGONBON one, dunno why in file it uses HUM one, when even Vanilla uses DGB one. 
+Female still uses HUM FS one since this is what Vanilla uses (Clawstep patch will override it to my DGB F custom one)
+--------------------------------------------------------------------
+
+PAK file issue fixes for UTAV:
+
+✧ Fixed a typo in a UUID that prevented Female Head 4 from using UTAV.
+
+--------------------------------------------------------------------
+
+VANILLA BUG FIXED:
+
+✧ Draconic Bloodline default Durge head can now use Makeup
+(I included the same fix in the last DMH update as well).
+
+--------------------------------------------------------------------
+
+EXTRA:
+
+✧ All my PUBLISHED heads patched for Draconic Bloodline.
+
+✧ "NPC" head variations also patched with Draconic Bloodline for the Dragonborn NPC CC Head mod.
+
+✧ Buttons for Body Selector for Fleshforge pre-set for me to switch on in a separate file.
+
+✧ New Draconic Bloodline drawn for tails(C and B for both body types) and priv parts (fem)
+
+✧ Draconic Bloodline now works for Tails B, C and private parts (Vanilla ones does not have switch)
+Therefore Female in Vanilla when Draconic Bloodline selected have visible seam to Tail B, C and Private parts, so it's kinda needed
+--------------------------------------------------------------------

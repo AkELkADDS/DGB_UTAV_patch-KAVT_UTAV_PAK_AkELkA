@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				
+				FEMALE
+				<!-- FEMALE BODY -->
+				<node id="Resource"><!-- DGB --><!-- FEMALE --><!-- Cloth Collision changed to mine degitigrated female dragonborn one -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8789967 1.781299 0.1626401" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8789967 -0.00558549 -0.2184167" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="3a2117ae-6a3b-3afb-1249-8d894e45f6b6" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="9ab9204b-8813-4031-950f-2ca2aa6307fe" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="3931ff7c-02b3-bfbf-8f77-a382c7573566" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="cc356d70-b4f8-4bb5-a0c8-553e3952977e" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Body_A.DGB_F_NKD_Body_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<!-- FEMALE TAIL -->
+				<node id="Resource"><!-- DGB --><!-- FEMALE --><!-- TAIL A -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="ef17b969-92f5-a718-a0c4-f8eaae729fe8" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1001436 1.289497 1.369316" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1001436 0.4078122 0.06367514" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0a986e34-630e-44df-8221-02a0cdeb85cb" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6c6547c2-ea33-c498-20e9-1e5447e2ab9a" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Tail_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Tail_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="cc356d70-b4f8-4bb5-a0c8-553e3952977e" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_A.DGB_F_NKD_Tail_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="cc356d70-b4f8-4bb5-a0c8-553e3952977e" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_A.DGB_F_NKD_Tail_A_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"><!-- DGB --><!-- FEMALE --><!-- TAIL B -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="ef17b969-92f5-a718-a0c4-f8eaae729fe8" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1001436 1.289497 1.408033" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1001436 0.452531 0.06367249" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="ea8d2196-b9c8-4593-a7e6-a18265cb8650" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6c6547c2-ea33-c498-20e9-1e5447e2ab9a" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Tail_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Tail_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="e0d7ce4c-69aa-4321-85cd-a3194eb35026" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B.DGB_F_NKD_Tail_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="e0d7ce4c-69aa-4321-85cd-a3194eb35026" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B.DGB_F_NKD_Tail_B_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"><!-- DGB --><!-- FEMALE --><!-- TAIL C -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="ef17b969-92f5-a718-a0c4-f8eaae729fe8" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1001436 1.289497 1.342275" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1001436 0.4075578 0.06367514" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="c2b10156-a788-4e27-88d6-fd5f066173aa" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6c6547c2-ea33-c498-20e9-1e5447e2ab9a" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Tail_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_Tail_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4361edc3-bb62-4aa0-8862-4d37b9c3b183" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C.DGB_F_NKD_Tail_C_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="4361edc3-bb62-4aa0-8862-4d37b9c3b183" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C.DGB_F_NKD_Tail_C_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<!-- FEMALE GENITAL -->
+				<node id="Resource"><!-- DGB --><!-- FEMALE --><!-- GENITAL A -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.05504427 1.086882 0.01544124" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05504427 0.969821 -0.1223595" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="97bed85c-f97d-41d4-86e3-4797a12ea6a8" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DGB_F_NKD_Body_Genital_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Female/Resources/DGB_F_NKD_Body_Genital_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Female/Resources/DGB_F_NKD_Body_Genital_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="12b65315-150c-4f24-9086-ffb933a3138b" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Body_Genital_A.DGB_F_NKD_Body_Genital_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="12b65315-150c-4f24-9086-ffb933a3138b" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Body_Genital_A.DGB_F_NKD_Body_Genital_A_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"><!-- DGB --><!-- FEMALE --><!-- GENITAL B -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.05504427 1.086882 -0.04441905" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05504427 0.9217372 -0.1802753" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="5f618814-2c4d-45f9-8886-57c831f41835" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DGB_F_NKD_Body_Genital_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="733b0bff-3f62-bb0b-d128-846de19836ed" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Genitals" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Female/Resources/DGB_F_NKD_Body_Genital_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Female/Resources/DGB_F_NKD_Body_Genital_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fbb6c1ce-dd1e-4ba4-81c3-feda530e439f" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Body_Genital_B.DGB_F_NKD_Body_Genital_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="fbb6c1ce-dd1e-4ba4-81c3-feda530e439f" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Body_Genital_B.DGB_F_NKD_Body_Genital_B_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				
+				MALE
+				<!-- MALE BODY -->
+				<node id="Resource"><!-- DGB -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.8903011 1.883262 0.2153863" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.8896071 -0.00169602 -0.2463818" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="75f2285b-d0db-3f78-afa1-2d3654717054" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="160e3a75-0a3a-456f-b272-7302a06f0f1c" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="e80f5bba-dae0-fdea-1874-ba11c52906c3" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Body_A.DGB_M_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Body_A.DGB_M_NKD_Body_A_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Body_A.DGB_M_NKD_Body_A_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Body_A.DGB_M_NKD_Body_A_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Body_A.DGB_M_NKD_Body_A_Mesh_LOD4.4" />
+						</node>
+					</children>
+				</node>
+				<!-- MALE TAIL -->
+				<node id="Resource"><!-- DGB --><!-- MALE --><!-- TAIL A -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="3e34cfc9-987b-336e-9526-bfd42a6be1a1" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1021626 1.352623 1.404476" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1021626 0.4652575 0.1113855" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="839c7d96-b08c-4ea5-9016-3b7b4d8c37c8" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="7b35abc8-bf7b-6810-e2a0-28091ecac7d1" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Tail_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Tail_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="57f7d9dd-8e6f-b1b1-0d46-5fb43ee02018" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_A.DGB_M_NKD_Tail_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="ae1a6cd4-d2e1-41ab-9e86-0b6d2e3f859c" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_A.DGB_M_NKD_Tail_A_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"><!-- DGB --><!-- MALE --><!-- TAIL B -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="3e34cfc9-987b-336e-9526-bfd42a6be1a1" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1021626 1.352623 1.424757" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1021626 0.528686 0.1113855" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="58a16a47-f853-4929-923f-c33d0e607f41" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="7b35abc8-bf7b-6810-e2a0-28091ecac7d1" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Tail_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Tail_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="57f7d9dd-8e6f-b1b1-0d46-5fb43ee02018" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="e3c78321-1dc5-4713-a095-7a0895122bdf" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B.DGB_M_NKD_Tail_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="e3c78321-1dc5-4713-a095-7a0895122bdf" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B.DGB_M_NKD_Tail_B_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"><!-- DGB --><!-- MALE --><!-- TAIL C -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="3e34cfc9-987b-336e-9526-bfd42a6be1a1" />
+					<attribute id="BoundsMax" type="fvec3" value="0.103849 1.352623 1.338206" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.103849 0.47489 0.1101616" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="da087247-bbe5-4d0b-8f39-56e280a599cf" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="7b35abc8-bf7b-6810-e2a0-28091ecac7d1" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Tail_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_Tail_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="57f7d9dd-8e6f-b1b1-0d46-5fb43ee02018" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="fbcc8b68-e37b-d926-934c-759725e42e81" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="e6343c2e-fc99-4aef-9aae-59ce1328f421" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C.DGB_M_NKD_Tail_C_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="e6343c2e-fc99-4aef-9aae-59ce1328f421" />
+							<attribute id="ObjectID" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C.DGB_M_NKD_Tail_C_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<!-- MALE GENITAL -->
+				<node id="Resource"><!-- DGB --><!-- MALE --><!-- GENITAL A -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.05364984 1.155887 0.01773811" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05364984 1.037683 -0.1390191" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="58a07a68-24eb-4a7f-b6af-c44cce5c3a67" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DGB_M_NKD_Body_Genital_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Male/Resources/DGB_M_NKD_Body_Genital_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Male/Resources/DGB_M_NKD_Body_Genital_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="22bb7688-e1ee-445a-98a5-771443796644" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Body_Genital_A.DGB_M_NKD_Body_Genital_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="22bb7688-e1ee-445a-98a5-771443796644" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Body_Genital_A.DGB_M_NKD_Body_Genital_A_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"><!-- DGB --><!-- MALE --><!-- GENITAL B -->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.05364984 1.155887 -0.04079731" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05364984 0.9917238 -0.1818772" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="a8763dcb-12f0-471c-be86-63fd38be8ca9" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DGB_M_NKD_Body_Genital_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="b161e591-2d57-5392-d764-f9ca80e695df" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Genitals" />
+					<attribute id="Slot" type="FixedString" value="Private Parts" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Male/Resources/DGB_M_NKD_Body_Genital_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Dragonborn/_Male/Resources/DGB_M_NKD_Body_Genital_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eb51aa31-94ef-4dbd-b86a-16fc183078eb" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Body_Genital_B.DGB_M_NKD_Body_Genital_B_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="eb51aa31-94ef-4dbd-b86a-16fc183078eb" />
+							<attribute id="ObjectID" type="FixedString" value="DGB_M_NKD_Body_Genital_B.DGB_M_NKD_Body_Genital_B_Mesh_LOD1.1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

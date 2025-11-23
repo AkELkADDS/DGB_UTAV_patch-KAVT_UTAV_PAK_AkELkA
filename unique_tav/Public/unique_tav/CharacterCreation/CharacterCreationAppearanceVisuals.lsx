@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- [AkELkA_DGB_Assets_pact1/CharacterCreation -->
+<save>
+    <!-- TODO: FOR EACH "CharacterCreationAppearanceVisual" Node, REPLACE ALL "UUID" VALUE, REPLACE ALL "VisualResource" VALUE. FINALLY REPLACE "DisplayName" VALUE. I use these breaks to split my heads up so I know which is which -->  <!-- Here we creating the button slots -->
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>	
+				BODY
+				
+				BODY ASSETS
+				Dragonborn Tail
+				MALE						
+                <node id="CharacterCreationAppearanceVisual"> TAIL A
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="b6f0b3f0-e419-4d83-afc0-9b28af870a4e" version="4" /> <!-- same as the handle in your Localization\English\custom_name_here.xml CHANGEBLE_SWIPE_IT -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Tail_5b7ec2fb-16ca-4707-a33e-74061640c5bf"/> <!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_Heads_icons.lsx (IconUV"> ) -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 -->
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="c138db43-3607-4aa8-873d-8a7374283dbb"/> <!--Unique UUID CHANGEBLE_SWIPE_IT -->
+                    <attribute id="VisualResource" type="guid" value="839c7d96-b08c-4ea5-9016-3b7b4d8c37c8"/> <!-- This UUID must match the one in the _merged.lsf or the custom name you give it. CHANGEBLE_SWIPE_IT -->
+                </node>					
+                <node id="CharacterCreationAppearanceVisual"> TAIL B
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="b5af164a-8725-4b4c-b301-1904da4b46b6" version="4" /> <!-- same as the handle in your Localization\English\custom_name_here.xml CHANGEBLE_SWIPE_IT -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Tail_9f047246-933e-459d-80eb-96350a529c62"/> <!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_Heads_icons.lsx (IconUV"> ) -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 -->
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="28871ddd-4cd4-4cef-8879-2a3d62ff5601"/> <!--Unique UUID CHANGEBLE_SWIPE_IT -->
+                    <attribute id="VisualResource" type="guid" value="58a16a47-f853-4929-923f-c33d0e607f41"/> <!-- This UUID must match the one in the _merged.lsf or the custom name you give it. CHANGEBLE_SWIPE_IT -->
+                </node>					
+                <node id="CharacterCreationAppearanceVisual"> TAIL C
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="19e54648-780a-49c8-8c70-8a3f0eec8b25" version="4" /> <!-- same as the handle in your Localization\English\custom_name_here.xml CHANGEBLE_SWIPE_IT -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Tail_5044c8e3-fbf3-4878-b2b6-db39074b3ed9"/> <!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_Heads_icons.lsx (IconUV"> ) -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 -->
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="3f516283-f175-468e-86c9-696640da4787"/> <!--Unique UUID CHANGEBLE_SWIPE_IT -->
+                    <attribute id="VisualResource" type="guid" value="da087247-bbe5-4d0b-8f39-56e280a599cf"/> <!-- This UUID must match the one in the _merged.lsf or the custom name you give it. CHANGEBLE_SWIPE_IT -->
+                </node>
+				
+				FEMALE						
+                <node id="CharacterCreationAppearanceVisual"> TAIL A
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="b6f0b3f0-e419-4d83-afc0-9b28af870a4e" version="4" /> <!-- same as the handle in your Localization\English\custom_name_here.xml CHANGEBLE_SWIPE_IT -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Tail_5b7ec2fb-16ca-4707-a33e-74061640c5bf"/> <!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_Heads_icons.lsx (IconUV"> ) -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 -->
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="1fd704fc-61cd-4e2f-ab91-2a90bb49b262"/> <!--Unique UUID CHANGEBLE_SWIPE_IT -->
+                    <attribute id="VisualResource" type="guid" value="0a986e34-630e-44df-8221-02a0cdeb85cb"/> <!-- This UUID must match the one in the _merged.lsf or the custom name you give it. CHANGEBLE_SWIPE_IT -->
+                </node>				
+                <node id="CharacterCreationAppearanceVisual"> TAIL B
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="b5af164a-8725-4b4c-b301-1904da4b46b6" version="4" /> <!-- same as the handle in your Localization\English\custom_name_here.xml CHANGEBLE_SWIPE_IT -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Tail_9f047246-933e-459d-80eb-96350a529c62"/> <!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_Heads_icons.lsx (IconUV"> ) -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 -->
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="e0acecfb-559d-45e5-a019-1212cffc13a6"/> <!--Unique UUID CHANGEBLE_SWIPE_IT -->
+                    <attribute id="VisualResource" type="guid" value="ea8d2196-b9c8-4593-a7e6-a18265cb8650"/> <!-- This UUID must match the one in the _merged.lsf or the custom name you give it. CHANGEBLE_SWIPE_IT -->
+                </node>				
+                <node id="CharacterCreationAppearanceVisual"> TAIL C
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="3fbe1d26-86fd-8baf-d5e1-9ec3d0f499e9"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="19e54648-780a-49c8-8c70-8a3f0eec8b25" version="4" /> <!-- same as the handle in your Localization\English\custom_name_here.xml CHANGEBLE_SWIPE_IT -->
+					<attribute id="IconIdOverride" type="FixedString" value="1_Tail_5044c8e3-fbf3-4878-b2b6-db39074b3ed9"/> <!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_Heads_icons.lsx (IconUV"> ) -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 -->
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="46b74182-39c2-4ddc-87ce-36133b1004b8"/> <!--Unique UUID CHANGEBLE_SWIPE_IT -->
+                    <attribute id="VisualResource" type="guid" value="c2b10156-a788-4e27-88d6-fd5f066173aa"/> <!-- This UUID must match the one in the _merged.lsf or the custom name you give it. CHANGEBLE_SWIPE_IT -->
+                </node>
+				
+				Dragonborn GENITALS
+				MALE
+                <node id="CharacterCreationAppearanceVisual"> UTAV BT2 PP A<!-- Private part A --><!-- GENITAL_VULVA -->
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2090f19cg6b2dg4db3ga2f0g1eb44f468bba" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="81e68a52-1c11-4129-b651-b73ef3efc6cd"/>
+                    <attribute id="VisualResource" type="guid" value="58a07a68-24eb-4a7f-b6af-c44cce5c3a67"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> UTAV BT1 PP B<!-- GENITAL_PENIS -->
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h78b26e0agd196g483fg888cgb4357086aebb" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="eb26c787-771e-4379-af4b-f38bf6f9d6e1"/>
+                    <attribute id="VisualResource" type="guid" value="a8763dcb-12f0-471c-be86-63fd38be8ca9"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/><!-- GENITAL_PENIS(d27831df-2891-42e4-b615-ae555404918b)-->
+                        </node>
+                    </children>
+                </node>
+				FEMALE
+                <node id="CharacterCreationAppearanceVisual"> UTAV BT2 PP A<!-- Private part A --><!-- GENITAL_VULVA -->
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2090f19cg6b2dg4db3ga2f0g1eb44f468bba" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="8e3a9763-fbc0-43f2-a8e0-b1c8c1e4af6f"/>
+                    <attribute id="VisualResource" type="guid" value="97bed85c-f97d-41d4-86e3-4797a12ea6a8"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/><!-- GENITAL_VULVA(a0738fdf-ca0c-446f-a11d-6211ecac3291)-->
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> UTAV BT1 PP B <!-- GENITAL_PENIS -->
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h78b26e0agd196g483fg888cgb4357086aebb" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="2de3259e-133a-4c01-8594-54ed45ade9d5"/>
+                    <attribute id="VisualResource" type="guid" value="5f618814-2c4d-45f9-8886-57c831f41835"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+				
+				<!-- RaceUUID so you can quickly replace the above with your desired race
+				Halfling: 78cd3bcc-1c43-4a2a-aa80-c34322c16a04
+				Gnome: f1b3f884-4029-4f0f-b158-1f9fe0ae5a0d
+				Deep Gnome: 3560f4a2-c0b8-4f8b-baf8-6b6eaef0c160
+				Tiefling: b6dccbed-30f3-424b-a181-c4540cf38197
+				Githyanki: bdf9b779-002c-4077-b377-8ea7c1faa795
+				Human: 0eb594cb-8820-4be6-a58d-8be7a1a98fba
+				Elf: 6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a
+				Drow: 4f5d1434-5175-4fa9-b7dc-ab24fba37929
+				HalfElf/Drow: 45f4ac10-3c89-4fb2-b37d-f973bb9110c0
+				Dwarf: 0ab2874d-cfdc-405e-8a97-d37bfbb23c52
+				Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 
+				Half-Orc: 5c39a726-71c8-4748-ba8d-f768b3c11a91-->
+            </children>
+        </node>
+    </region>
+</save>

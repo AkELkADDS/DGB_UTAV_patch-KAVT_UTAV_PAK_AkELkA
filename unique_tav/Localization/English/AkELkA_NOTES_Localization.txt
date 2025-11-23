@@ -1,0 +1,3 @@
+Naming for Utav selectable privat parts and tails added in both files(u always need only .loca.xml tho)
+
+-------------------------------------------------------------------------------

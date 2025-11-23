@@ -1,0 +1,38 @@
+
+VANILLA HEADS ONLY
+_DGB_VANILLA_Head_Materials_Overrides_merged.lsf.lsx
+
+Patch for ALL PUBLISHED modded heads of mine
+_DGB_MODDED_Head_Materials_Overrides_AkELkA_merged.lsf
+
+-------------------------------------------------------------------------------
+FIXES for Heads (ESSUES WAS PRESENTED IN KAVT AND UTAV BOTH)
+
+Draconic Bloodline textures added in Texture bank
+Draconic Bloodline instance mats added in Material bank
+
+Prefixes UNIQUE_ added where was not presented
+
+FIXES VANILLA BUG:
+Draconic Bloodline default Durge head now able to use Makeup (I have same fix for it in last DMH update also)
+-------------------------------------------------------------------------------
+
+_merged
+
+leave my _merged be, as separate file, it is more convitient to work with like that, it does not need to me named just _merged, it is work with different names just fine, easier to differentiate them in Notpad this way. You could even not leave _merged in the end of name, for me it's just name-reminder of what it was, but it is not nessesary
+
+
+Your _merged.lsx and _merged.lsf.lsx are here to override your old file, file with all DGB things presented. So just oveerride your old files
+So just batch oveerride your old files (if you drag n drop all my pak in yours it should be done already)
+
+----------------------------------------------------------------------------------
+You also do not need 2 files: .lsf.lsx AND .lsx
+for _[PAK]_ .lsf.lsx is enough
+I leave both of yours so you override them, but u don't need to of new ones
+
+----------------------------------------------------------------------------------
+DGB_M_NKD_Head_B is unused rudiment, this texture has botched UV and don't have mesh for it by defaut. But I left it be in case some person will override textures and reuse for some modded head it would be prepatched.
+----------------------------------------------------------------------------------
+
+DGB_M_NKD_Head_A, DGB_M_NKD_Head_C, DGB_F_NKD_Head_A is NPC heads but I made Draconic Bloodlines for them also and prepatched them. They are used in Dragonborn Npc CC Head mod as selectable heads, so I prepatched them. 
+They also used in Lizard folk mod as selectable heads but since u patch heads trough Char Visuals this mod would need separate patch, race mods use they own Char Visuals.

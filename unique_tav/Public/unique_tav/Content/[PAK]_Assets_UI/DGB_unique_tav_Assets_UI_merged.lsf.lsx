@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?> <!-- [PAK]_DGB_Assets_UI -->
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank"> <!--icon Atlas atributes (custome switches for icons here) -->
+			<children>
+				<node id="Resource"> <!--icon Atlas -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="256" /> 
+					<attribute id="ID" type="FixedString" value="3842b845-d5d4-453d-8950-d80520394356" /> <!-- Unic UUID of Altas. Should be the same a in _merged.lsf.lsx in [PAK]_AkELkA_DGB_icons and AkELkA_DGB_icons.lsx CHANGEBLE_SWIPE_IT -->
+					<attribute id="Name" type="LSString" value="KAZSTRA_DGB_UI_CCIcons" /> <!-- Name of DDS atlas CHANGEBLE_SWIPE_IT -->
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Public/unique_tav/Assets/Textures/UI/KAZSTRA_DGB_UI_CCIcons.dds" /> <!-- Path to DDS atlas CHANGEBLE_SWIPE_IT -->
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="KAZSTRA_DGB_UI_CCIcons" /> <!-- Name of DDS atlas CHANGEBLE_SWIPE_IT -->
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="256" /> <!--icon Atlas size 512x512. Icons size 256x256 CHANGEBLE_SWIPE_IT (was 8-4k) -->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,34 @@
+
+_DGB_MB_UNIQUE_merged.lsf.lsx - Material bank
+_DGB_TB_UNIQUE_merged.lsf.lsx - Texture bank
+_DGB_VB_UNIQUE_merged.lsf - Visual bank
+
+-------------------------------------------------------------------------------
+FIXES for Bodies (ESSUES WAS PRESENTED IN KAVT AND UTAV BOTH)
+
+Draconic Bloodline textures added in DATA files for male and female separatly (by Vanilla it's 1 texture for both body types, since UTav and KAVT about uniqueness it's anexaptable to live it like Vanilla does in my opinion, this is why i did it)
+Draconic Bloodline textures added in Texture bank
+Draconic Bloodline instance mats added in Material bank
+
+Draconic Bloodline now works for Tails B, C and private parts (Vanilla ones does not have switch)
+
+UUID for all DGB textures, mats and meshes changed to UNIQUE ones! 
+Previously they where overriding Vanilla ones instead
+
+Prefixes UNIQUE_ added where was not presented
+-------------------------------------------------------------------------------
+ADDITIONS
+
+Since VB,MB, TB for tails and Private parts are separated I made them separate selectables in CC instead of just overrides. 
+Also it prevents KAVT from touching Clawstep and Dragonborn Hatchlings NPCs, since they are have tails
+
+-------------------------------------------------------------------------------
+
+_merged
+
+leave my _merged be, as separate file, it is more convitient to work with like that, it does not need to me named just _merged, it is work with different names just fine, easier to differentiate them in Notpad this way. You could even not leave _merged in the end of name, for me it's just name-reminder of what it was, but it is not nessesary
+
+
+Your _merged.lsx and _merged.lsf.lsx are here to override your old file, file with all DGB things presented. 
+So just batch oveerride your old files (if you drag n drop all my pak in yours it should be done already)
+-------------------------------------------------------------------------------

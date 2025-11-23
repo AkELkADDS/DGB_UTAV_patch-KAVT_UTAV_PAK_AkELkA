@@ -1,0 +1,15 @@
+New Draconic Bloodline drawn for tails(C and B for both body types) and priv parts (fem)
+
+Draconic Bloodline textures added in DATA files for male and female separatly (by Vanilla it's 1 texture for both body types, since UTav and KAVT about uniqueness it's anexaptable to live it like Vanilla does in my opinion, this is why i did it)
+
+Extra Draconic Bloodline textures for Tails B and C are marked, if ppl want to they could make they own unique draconic bloodline mask now and it's setuped already (Vanilla ones don't have this switch)
+
+Tails Textures added separatly in case ppl want make they own variations since meshes was presented in UTAV it's only logical to have them as well.
+
+CLEA textures removed
+They are unused for Dragonborn, pls stop using them, this ones are rudiment. 
+If you interested what textures really doing for dragonborn check BG3 WIKI PAGE I made like year ago.
+https://bg3.wiki/wiki/Modding:Face_and_body_textures#Dragonborn
+
+Textures for bodies contain same fixes as my Seam mender mod for Bodies (Does not contain fixes for heads tho)
+------------------------------------------------------------------------------------------

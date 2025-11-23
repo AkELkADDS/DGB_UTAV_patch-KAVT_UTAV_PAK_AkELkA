@@ -1,0 +1,10 @@
+
+FIXES for Bodies (ESSUES WAS PRESENTED IN UTAV)
+
+Fixes Typo in UUID preventing Female Head 4 to use UTAV
+----------------------------------------------------------------------------------
+
+Your _Dragonborn.lsf.lsx and _Dragonborn.lsx are here to override your old file.
+So just batch oveerride your old files (if you drag n drop all my pak in yours it should be done already)
+
+----------------------------------------------------------------------------------

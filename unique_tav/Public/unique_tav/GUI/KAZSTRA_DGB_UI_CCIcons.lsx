@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- GUI -->
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="IconUVList"><!-- This is icon's UV Atas positions--> <!-- Atlas Texture -->
+        <node id="root">
+           <children>
+			<!--Row A--> 
+                <node id="IconUV"> A1 UTAV Body A
+                    <attribute id="MapKey" type="FixedString" value="1_Beard_8884c743-6213-448a-9ecb-c9ba92dad2b3"/>  <!-- Fleshforge selector button, do not delete --><!-- This is UUID. Unique icon UUID has matches in CharacterCreationAppearanceVisuals.lsx file + 1 match in AkELkA_DGB_icons.lsx (this line) CHANGEBLE_SWIPE_IT -->
+                    <attribute id="U1" type="float" value="6.1035156e-05"/>	+0.0005	    left
+                    <attribute id="U2" type="float" value="0.4995"/> 0.125 -0.0005      right
+                    <attribute id="V1" type="float" value="0.00012207031"/>	+0.0005     top
+                    <attribute id="V2" type="float" value="0.4995"/> 0.125 -0.0005      bottom
+                </node>	
+                <node id="IconUV"> A2 UTAV Tail A
+                    <attribute id="MapKey" type="FixedString" value="1_Tail_5b7ec2fb-16ca-4707-a33e-74061640c5bf"/> 
+                    <attribute id="U1" type="float" value="0.5005"/>		+0.0005	    left
+                    <attribute id="U2" type="float" value="0.9955"/>	    -0.0005     right
+                    <attribute id="V1" type="float" value="0.00012207031"/>		        top
+                    <attribute id="V2" type="float" value="0.4995"/>	                bottom
+                </node>	
+			<!--Row B-->
+                <node id="IconUV"> B1 UTAV Tail B
+                    <attribute id="MapKey" type="FixedString" value="1_Tail_9f047246-933e-459d-80eb-96350a529c62"/>  
+                    <attribute id="U1" type="float" value="6.1035156e-05"/>		    left 
+                    <attribute id="U2" type="float" value="0.4995"/>	            right
+                    <attribute id="V1" type="float" value="0.5005"/>	            top
+                    <attribute id="V2" type="float" value="0.9995"/>	            bottom
+                </node>
+                <node id="IconUV"> B2 UTAV Tail C
+                    <attribute id="MapKey" type="FixedString" value="1_Tail_5044c8e3-fbf3-4878-b2b6-db39074b3ed9"/>
+                    <attribute id="U1" type="float" value="0.5005"/>		        left 
+                    <attribute id="U2" type="float" value="0.9955"/>	            right
+                    <attribute id="V1" type="float" value="0.5005"/>	            top
+                    <attribute id="V2" type="float" value="0.9995"/>	            bottom
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="128"/> <!-- Icon size 128x128 -->
+                    <attribute id="Width" type="int32" value="128"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Public/unique_tav/Assets/Textures/UI/KAZSTRA_DGB_UI_CCIcons.dds"/> <!-- Path to icon Atlas -->
+                    <attribute id="UUID" type="FixedString" value="3842b845-d5d4-453d-8950-d80520394356"/> <!-- Unic UUID of Altas. Should be the same a in _merged.lsf.lsx in [PAK]_AkELkA_DGB_icons and AkELkA_DGB_icons.lsx CHANGEBLE_SWIPE_IT theoretically with that I could create multiple Atlases if I want to separate heads from tails foe ex -->
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="256"/> <!-- Icon Atlas size-->
+                    <attribute id="Width" type="int32" value="256"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

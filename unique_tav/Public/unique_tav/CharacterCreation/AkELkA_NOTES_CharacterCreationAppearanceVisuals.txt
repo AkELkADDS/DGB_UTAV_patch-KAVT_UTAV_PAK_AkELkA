@@ -1,0 +1,5 @@
+
+Adds Tails and Private parts as selectables.
+Body selectable will go with patch of Fleshforge since it's in Beard tab and no nidded without selector
+
+----------------------------------------------------------------------------------

@@ -1,0 +1,801 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<!--AkELkA ADDED THIS-->
+				<!-- FEMALE BODY -->
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="15192097-eaf0-407a-bb17-78d7066b861d" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_A_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_BODY_A_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_A_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="adc57ad6-8274-4dd8-85b5-d5480c76f4f7" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_A_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_BODY_A_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_A_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="b3dae617-1047-4ff0-8e64-8edf82a5dbc9" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_A_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_BODY_A_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_A_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="c4cacad2-5a42-48e3-ab07-18e81813cf5d" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_A_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_BODY_A_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_A_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="a7ec0865-e352-40b3-80c4-71006c32c027" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_A_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_BODY_A_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_A_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="0b2e140f-465a-46a2-a0c1-3dd0847c54a6" />
+					<attribute id="Name" type="LSString" value="DGB_F_NKD_Body_A_Draconic_Bloodline_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/UNIQUE_DGB_F_NKD_BODY_A_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DGB_F_NKD_Body_A_Draconic_Bloodline_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<!-- FEMALE GENITAL A -->
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="0124e1af-078e-4f1f-a210-3462e4610545" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_A_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="cc629473-722a-403d-8028-4848016775b1" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_A_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="688e0d3e-e3da-4abf-9829-b47f039b58c9" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_A_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="9e23c22a-b542-48c6-8826-e1af715ef033" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_A_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="8452b2c4-1e1c-4fd8-b37a-26c50a2f59b2" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_A_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="eca92879-535e-458b-98da-54d991872b1f" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_DB_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_A_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_A_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<!-- FEMALE GENITAL B -->
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="b1ef546c-98d9-4b20-9047-86dc5500a944" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_B_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="2742c25d-dfbc-4588-8ba1-d96196e576dd" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_B_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="916f7618-6607-4bda-b225-15c0e711e3dc" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_B_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="d93fc5df-933b-4116-bbc3-2aa09228d656" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_B_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="c2b98feb-d9d7-4139-95e4-97c3c5a321ff" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_B_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="90bb3700-24b9-4ea3-a67f-8dfcd53987b7" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_DB_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/GENITALS/UNIQUE_DGB_F_NKD_BODY_GENITAL_B_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_BODY_GENITAL_B_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<!-- FEMALE TAIL B -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="caa32c90-b247-405b-8338-7449a4dc5a76" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_B_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="f77ffc54-02f8-4a86-aa53-7f8c61d86bf3" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_B_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="Resource"><!-- DGB Tail B --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="b0fabf76-502f-487a-a0a8-38fdb850054e" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B_DB_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_B_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="564fd022-d924-4cb4-9836-a912a75763fc" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_B_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="191568f3-16d5-42cb-b91d-4e67d6861443" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_B_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="0ed0ee9f-f5dc-4551-a26a-a2c490be2ca6" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_B_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_B_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_B_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<!-- FEMALE TAIL C -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="0b117b7a-fbc8-4dfc-90bd-4df8cc0158ff" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_C_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_C_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="46ee995a-e845-46a6-9ff5-2a2d32b76056" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_C_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_C_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="Resource"><!-- DGB Tail C --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="2f6ab5db-a64c-455a-9d10-69a743a0f1e2" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_DB_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_C_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="b0ab35f2-af1d-4ee0-9e11-402febbb97c7" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_C_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_C_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="b2fe7676-4782-41e5-8397-b7bf3b443a2d" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_C_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_C_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="8ee7e5b0-d766-4cb9-80e8-ade282096a51" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_F_NKD_Tail_C_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/FEMALE/TAILS/UNIQUE_DGB_F_NKD_Tail_C_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_F_NKD_Tail_C_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
+				</node>
+				<!-- MALE BODY -->
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="6b4474d5-6a09-42ef-9fef-48ac70d19665" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_A_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_BODY_A_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_A_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="95f2ed7e-2595-449d-9713-2b204c7315ba" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_A_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_BODY_A_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_A_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="cf016a29-a692-4f2f-954c-769eefe673a7" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_A_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_BODY_A_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_A_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="13d4715b-79df-44db-8522-35362bb86027" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_A_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_BODY_A_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_A_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+				<node id="Resource"><!-- DGB -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="47b34f48-3816-4ca8-89aa-809977fb340f" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_A_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_BODY_A_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_A_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="3e2ab6ea-efa0-488a-9c86-1520f2f6a687" />
+					<attribute id="Name" type="LSString" value="DGB_M_NKD_Body_A_Draconic_Bloodline_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/UNIQUE_DGB_M_NKD_BODY_A_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DGB_M_NKD_Body_A_Draconic_Bloodline_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<!-- MALE GENITAL A -->
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="a502bc77-065a-4c57-a5de-dc662bef10e6" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_A_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="0c688082-787f-4676-afbd-dd6c703de77d" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_A_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="786dd516-1ac5-41d8-b592-e45bf4a4c2c0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_A_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="27724768-dfef-466b-9407-0f3cf253157c" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_A_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="79145cef-84d3-4615-96e9-5d5829dcb9ce" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_A_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="d73e15b0-d40e-4374-af5e-7d0a5b38c9c1" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_DB_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_A_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_A_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<!-- MALE GENITAL B -->
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="06f2856b-afc5-4a5f-bee1-b102392dcf51" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_B_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="2dba571a-933a-47bf-9a00-05155af5e543" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_B_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="d5905dbc-7f8a-495e-b9b0-bc7861064f7b" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_B_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="c6a48001-3eff-4d82-9991-34d467dff3c4" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_B_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="dbdbfe31-9574-4a3c-a0e7-b7198ec87505" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_B_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource"><!-- DGB --><!-- GENITAL --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="619c2d92-887f-4017-9918-9caf4d9e4c2f" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_DB_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/GENITALS/UNIQUE_DGB_M_NKD_BODY_GENITAL_B_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_BODY_GENITAL_B_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<!-- MALE TAIL B -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="256" />
+					<attribute id="ID" type="FixedString" value="efda9992-0bbf-42d0-af25-7641c0dabf8d" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_B_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="256" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+				</node>
+				<node id="Resource"><!-- DGB Tail B --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="216dfe24-7ccd-4a42-99bd-7bff017d508d" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_B_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="618ea5e9-98c3-463c-a860-518b402601e4" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_B_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="256" />
+					<attribute id="ID" type="FixedString" value="537710a8-e1fa-4816-ba10-58277d876eb2" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_B_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="256" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="1bb20cb4-ae1b-4d50-b9a5-600289f9c224" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_B_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="85a63890-96be-47ec-83c9-d5c9135a1278" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_B_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_B_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<!-- MALE TAIL C -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="b1c0fd9e-9b6f-46c1-a83c-f6de5b16ed79" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_CTLO" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_C_CTLO.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C_CTLO" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="c275c032-bf04-4c2e-b41a-3758e95726c9" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_C_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="f3848894-62f2-456f-be3b-61922d4894a0" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_MSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_C_MSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C_MSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="256" />
+					<attribute id="ID" type="FixedString" value="235ab290-a752-4e57-88cb-caedcc268ad9" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_C_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="256" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+				<node id="Resource"><!-- DGB Tail C --><!-- Draconic_Bloodline -->
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="b3622c54-b5d2-414d-817d-de6306b55991" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_C_DB_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_B_DB_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="3c7b1d5e-9caa-479e-8662-7d2f0c6abe87" />
+					<attribute id="Name" type="LSString" value="UNIQUE_DGB_M_NKD_Tail_C_DMSK" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/DGB/MALE/TAILS/UNIQUE_DGB_M_NKD_Tail_C_DMSK.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="UNIQUE_DGB_M_NKD_Tail_C_DMSK" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
